@@ -38,7 +38,7 @@ Data for homeless population available online through [Department of Homelessnes
 
 -Separated data into two categories: One for high-homeless areas and one for low-homeless areas
  
-    -Used these categories for EDA
+- Used these categories for EDA
 
 #### EDA
 ![Call Received to Dispatch Contacted](/Call_to_Disp.png)
