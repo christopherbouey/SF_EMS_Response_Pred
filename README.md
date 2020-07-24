@@ -55,7 +55,20 @@ Data for homeless population available online through [Department of Homelessnes
 
 ---
 
-## References
+## Null Hypothesis Test
+### First
+Null Hypothesis: Areas with high homeless population have same response rate as areas with low homeless population.
+
+Alternative Hypothesis: Areas with high homeless population have different response rate as areas with low homeless population.
+
+### Second
+I wanted to investigate my data a bit further, so I decided to break up the data into calls that were life-threatening and calls that were not life threatening. I did not perform EDA on this data but used it in another hypothesis test.
+
+Null Hypothesis: Calls marked as life-threatening have same response rate as calls marked as non-life threatening.
+
+Alternative Hypothesis: Calls marked as life-threatening have different response rate as calls marked as non-life threatening.
+
+
 [Back To The Top](#read-me-template)
 
 ---
