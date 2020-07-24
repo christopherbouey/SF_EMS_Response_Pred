@@ -3,7 +3,7 @@ You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [Data Overview](#data-overview)
-- [References](#references)
+- [Analysis Summary](#analysis-summary)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -29,17 +29,16 @@ Data for homeless population available online through [Department of Homelessnes
 
 ---
 
-## How To Use
+## Analysis Summary
 
-#### Installation
+#### Cleaned Data
+-Selected only 'Medical Incidents' and 'Alarms' to investigate as they would be most influenced and made up the vast majority of EMS calls (~80%)
+-Ended with 3.12 M rows of useable EMS calls spanning April 2000 to present (July 2020)
 
+#### EDA
+-Looked into time between call being received and a unit being dispatched
+![GitHub Logo](/Call_to_Disp.png)
 
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
-```
 [Back To The Top](#read-me-template)
 
 ---
