@@ -10,7 +10,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [How To Use](#how-to-use)
+- [Data Overview](#data-overview)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -21,9 +21,9 @@ You're sections headers will be used to reference location of destination.
 
 San Francisco is well known for its publicized homeless community. This community tends to suffer from physical and mental illnesses more than the general population, presumably leading to a higher rate of EMS calls for people afflicted by homelessness. I wanted to investigate the relationship between the areas of San Francisco that contain the largest populations of homeless communities, and the response rate of EMS in those areas compared to others. 
 
-#### Data Overview
+## Data Overview
 
-- All EMS calls through SFFD available through [sfgov.org](https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3)
+* All EMS calls through SFFD available through [sfgov.org](https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3)
 - Investigated the time deltas between 1. The call being received and a unit being dispatched, 2. The unit being dispatch and the unit responding 3. The unit response and the unit arriving on scene, and 4. The total time between call received and on scene arrival.
 
 - Technology 2
