@@ -34,10 +34,19 @@ Data for homeless population available online through [Department of Homelessnes
 #### Cleaned Data
 -Selected only 'Medical Incidents' and 'Alarms' to investigate as they would be most influenced and made up the vast majority of EMS calls (~80%)
 -Ended with 3.12 M rows of useable EMS calls spanning April 2000 to present (July 2020)
+- Separated data into two categories: One for high-homeless areas and one for low-homeless areas
+    -Used these categories for EDA
 
 #### EDA
--Looked into time between call being received and a unit being dispatched
-![GitHub Logo](/Call_to_Disp.png)
+![Call Received to Dispatch Contacted](/Call_to_Disp.png)
+
+![Dispatch Contacted to Unit Responding](/Disp_to_Resp.png)
+
+![Unit Responds to Unit Arriving on Scene](/Resp_to_Scene.png)
+
+![Total Time from Call to On Scene Arrival](/Call_to_Scene.png)
+
+##### ^All time measurements seemed to match up similarly, so used the total time (call to scene)
 
 [Back To The Top](#read-me-template)
 
