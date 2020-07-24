@@ -5,7 +5,7 @@ You're sections headers will be used to reference location of destination.
 - [Data Overview](#data-overview)
 - [Analysis Summary](#analysis-summary)
 - [Null Hypothesis](#null-hypothesis)
-- [Author Info](#author-info)
+- [Takeaway](#takeaway)
 
 ---
 
@@ -61,6 +61,8 @@ Data for homeless population available online through [Department of Homelessnes
 
 **Alternative Hypothesis:** Areas with high homeless population have different response rate as areas with low homeless population.
 
+**P-Value** of 0.02 for rejection
+
 ### Second
 I wanted to investigate my data a bit further, so I decided to break up the data into calls that were life-threatening and calls that were not life threatening. I did not perform EDA on this data but used it in another hypothesis test.
 
@@ -68,13 +70,38 @@ I wanted to investigate my data a bit further, so I decided to break up the data
 
 **Alternative Hypothesis:** Calls marked as life-threatening have different response rate as calls marked as non-life threatening.
 
+**P-Value** of 0.02 for rejection
+
 
 [Back To The Top](#read-me-template)
 
 ---
 
 ## Results
+### First
+High Pop Avg: 530 seconds
 
+Low Pop Avg: 516 seconds
+
+P-Value: 0.0 (very very low)
+
+**Reject Null Hypothesis**
+
+![Homeless Hist](/High_to_Low_Homeless_Hist.png)
+
+### Second
+Life Threatening Avg: 508 seconds
+
+Non-Life Threatening Avg: 528 seconds
+
+P-Value: 4 e-214
+
+**Reject Null Hypothesis**
+
+![Homeless Hist](/Life_Threat_to_Non_Hist.png)
+
+## Takeaway
+The data suggests with very high confidence that the areas with low homeless populations in San Francisco have a slightly faster EMS response time, and that calls marked as life-threatening have a faster response time. The high confidence is not surprising as this dataset included all EMS calls in San Francisco, so was the population data. There is not suggestion of causation in this analysis.
 
 [Back To The Top](#read-me-template)
 
