@@ -23,12 +23,12 @@ San Francisco is well known for its publicized homeless community. This communit
 
 ## Data Overview
 
-* All EMS calls through SFFD available through [sfgov.org](https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3)
-    - Investigated the time deltas between 
-        1. The call being received and a unit being dispatched 
-        2. The unit being dispatch and the unit responding 
-        3. The unit response and the unit arriving on scene
-        4. The total time between call received and on scene arrival.
+- All EMS calls through SFFD available through [sfgov.org](https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3)
+    - Investigated the time deltas between: 
+        - The call being received and a unit being dispatched 
+        - The unit being dispatch and the unit responding 
+        - The unit response and the unit arriving on scene
+        - The total time between call received and on scene arrival.
 
 - Technology 2
 
