@@ -4,7 +4,7 @@ You're sections headers will be used to reference location of destination.
 - [Description](#description)
 - [Data Overview](#data-overview)
 - [Analysis Summary](#analysis-summary)
-- [License](#license)
+- [Null Hypothesis](#null-hypothesis)
 - [Author Info](#author-info)
 
 ---
@@ -55,56 +55,26 @@ Data for homeless population available online through [Department of Homelessnes
 
 ---
 
-## Null Hypothesis Test
+## Null Hypothesis
 ### First
-Null Hypothesis: Areas with high homeless population have same response rate as areas with low homeless population.
+**Null Hypothesis:** Areas with high homeless population have same response rate as areas with low homeless population.
 
-Alternative Hypothesis: Areas with high homeless population have different response rate as areas with low homeless population.
+**Alternative Hypothesis:** Areas with high homeless population have different response rate as areas with low homeless population.
 
 ### Second
 I wanted to investigate my data a bit further, so I decided to break up the data into calls that were life-threatening and calls that were not life threatening. I did not perform EDA on this data but used it in another hypothesis test.
 
-Null Hypothesis: Calls marked as life-threatening have same response rate as calls marked as non-life threatening.
+**Null Hypothesis:** Calls marked as life-threatening have same response rate as calls marked as non-life threatening.
 
-Alternative Hypothesis: Calls marked as life-threatening have different response rate as calls marked as non-life threatening.
+**Alternative Hypothesis:** Calls marked as life-threatening have different response rate as calls marked as non-life threatening.
 
-
-[Back To The Top](#read-me-template)
-
----
-
-## License
-
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 [Back To The Top](#read-me-template)
 
 ---
 
-## Author Info
+## Results
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#read-me-template)
 
