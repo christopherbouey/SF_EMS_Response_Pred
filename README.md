@@ -1,11 +1,3 @@
-# Read Me Template
-
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
-
----
-
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
@@ -30,7 +22,8 @@ All EMS calls through SFFD available through [sfgov.org](https://data.sfgov.org/
     3. The unit response and the unit arriving on scene
     4. The total time between call received and on scene arrival.
 
-- Technology 2
+Data for homeless population available online through [Department of Homelessness and Supportive Housing](https://hsh.sfgov.org/about/research-and-reports/san-francisco-homeless-point-in-time-count-reports/)
+- Located two districts with elevated population and linked with neighborhoods used in EMS data
 
 [Back To The Top](#read-me-template)
 
