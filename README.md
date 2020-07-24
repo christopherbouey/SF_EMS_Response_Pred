@@ -36,7 +36,8 @@ Data for homeless population available online through [Department of Homelessnes
 
 -Ended with 3.12 M rows of useable EMS calls spanning April 2000 to present (July 2020)
 
-- Separated data into two categories: One for high-homeless areas and one for low-homeless areas
+-Separated data into two categories: One for high-homeless areas and one for low-homeless areas
+ 
     -Used these categories for EDA
 
 #### EDA
